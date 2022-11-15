@@ -6,12 +6,12 @@
 ## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
 
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281997496643) 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287771597518) 
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281997496643) 
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnggaDev/AnggaMdV3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnggaXyzZ/AnggaMdV3)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -25,11 +25,11 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/AnggaDev/AnggaMdV3
+$ git clone https://github.com/AnggaXyzZ/AnggaMdV3
 $ cd AnggaMdV3
 $ npm i 
 ```
-If error try using yarn instead of npm, see [here](https://github.com/AnggaDev/AnggaMdV3#if-npm-install-failed--try--using-yarn-instead-of-npm)
+If error try using yarn instead of npm, see [here](https://github.com/AnggaXyzZ/AnggaMdV3#if-npm-install-failed--try--using-yarn-instead-of-npm)
 ```bash
 $ node .
 ```
@@ -68,8 +68,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/AnggaDev/AnggaMdV3
-cd YushinoMdV3
+git clone https://github.com/AnggaXyzZ/AnggaMdV3
+cd AnggaMdV3
 npm install
 npm update
 ```
@@ -84,7 +84,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/AnggaDev/AnggaMdV3
+git https://github.com/AnggaXyzZ/AnggaMdV3
 cd AnggaMdV3
 npm install
 npm update
