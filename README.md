@@ -85,7 +85,7 @@ npm update
 
 ```bash
 git https://github.com/AnggaDev/AnggaMdV3
-cd YushinoMdV3
+cd AnggaMdV3
 npm install
 npm update
 ```
@@ -118,7 +118,7 @@ node .
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
 
 ⫹❰⫺ 𝐵𝐼𝐺 𝑇𝐻𝐴𝑁𝐾𝑆 𝑇𝑂 ⫹❱⫺
-⭝ Allaha Yang Maha Esa
+⭝ Allah Yang Maha Esa
 ⭝ Orang Tua Ku
 ⭝ Temen Ku
 ⭝ Mastah Mastah
