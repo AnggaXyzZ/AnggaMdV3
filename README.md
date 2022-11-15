@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/a9427f14542cab012612c.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Angga Dev</h1>
+<h1 align="center">AnggaXyzZ</h1>
 
 ## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
 
