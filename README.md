@@ -1,17 +1,17 @@
 <p align="center">
     <img src="https://telegra.ph/file/ba89874134b8b71478a0d.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Yushino V3</h1>
+<h1 align="center">Angga Dev</h1>
 
 ## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
 
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283838186170) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281361281833) 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281997496643) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281997496643) 
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hyuura-Official/YushinoMdV3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnggaDev/AnggaMdV3)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -25,11 +25,11 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Hyuura-Official/YushinoMdV3
-$ cd YushinoMdV2
+$ git clone https://github.com/AnggaDev/AnggaMdV3
+$ cd AnggaMdV3
 $ npm i 
 ```
-If error try using yarn instead of npm, see [here](https://github.com/Hyuura-Official/YushinoMdV3#if-npm-install-failed--try--using-yarn-instead-of-npm)
+If error try using yarn instead of npm, see [here](https://github.com/AnggaDev/AnggaMdV3#if-npm-install-failed--try--using-yarn-instead-of-npm)
 ```bash
 $ node .
 ```
@@ -68,7 +68,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Hyuura-Official/YushinoMdV3
+git clone https://github.com/AnggaDev/AnggaMdV3
 cd YushinoMdV3
 npm install
 npm update
@@ -84,7 +84,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/Hyuura-Official/YushinoMdV3
+git https://github.com/AnggaDev/AnggaMdV3
 cd YushinoMdV3
 npm install
 npm update
@@ -112,16 +112,16 @@ node .
 
 ## Thanks To
 ```bash
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
+𝐀𝐮𝐭𝐡𝐨𝐫 : AnggaXyzz 
 𝐖𝐚 : 081361281833
-𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
+𝐛𝐚𝐬𝐞 : Narutomo
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
 
 ⫹❰⫺ 𝐵𝐼𝐺 𝑇𝐻𝐴𝑁𝐾𝑆 𝑇𝑂 ⫹❱⫺
-⭝ 𝑨𝒍𝒍𝒂𝒉 𝒀𝒂𝒏𝒈 𝑴𝒂𝒉𝒂 𝑬𝒔𝒂
-⭝ 𝑶𝒓𝒂𝒏𝒈 𝑻𝒖𝒂
-⭝ 𝑻𝒆𝒎𝒆𝒏 𝑮𝒘
-⭝ 𝑴𝒂𝒔𝒕𝒂𝒉 𝑴𝒂𝒔𝒕𝒂𝒉
+⭝ Allaha Yang Maha Esa
+⭝ Orang Tua Ku
+⭝ Temen Ku
+⭝ Mastah Mastah
 ⫹⫺ 𝑇𝒉𝑒 𝑁𝑎𝑚𝑒 𝑇𝒉𝑎𝑡 𝐻𝑒𝑙𝑝𝑒𝑑 𝑀𝑒 ⫹⫺
 ⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔
 ⭝ 𝑨𝒅𝒊𝒘𝒂𝒋𝒊𝒔𝒉𝒊𝒏𝒈
